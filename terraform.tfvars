@@ -1,0 +1,5 @@
+"region" = "ap-south-1"
+"cidr" = "10.0.0.0/16"
+"cidr-subnet-public" ="10.0.1.0/24"
+"cidr-subnet-private"= "10.0.2.0/24"
+"cidr-destination" = "0.0.0.0/0"
